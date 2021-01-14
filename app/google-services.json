@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235015700964",
+    "project_id": "snackpass-13db0",
+    "storage_bucket": "snackpass-13db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235015700964:android:b4f4ee26ac2c71908c47f1",
+        "android_client_info": {
+          "package_name": "com.example.snackpass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235015700964-lbs746r4g8vhr6vaicljs19nucrkemfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9fD2jZQOyA4WWSHe_jxoelHw0VpTImtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235015700964-lbs746r4g8vhr6vaicljs19nucrkemfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
